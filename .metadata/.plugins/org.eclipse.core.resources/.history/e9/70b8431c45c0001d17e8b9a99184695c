@@ -1,0 +1,5 @@
+package com.mywebsite.model;
+
+public class UserModel {
+
+}

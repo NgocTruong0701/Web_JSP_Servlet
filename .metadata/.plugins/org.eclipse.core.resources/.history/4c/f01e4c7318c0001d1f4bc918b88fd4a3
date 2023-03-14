@@ -1,0 +1,8 @@
+package com.mywebsite.admin;
+
+public class Snippet {
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException, ServletException{
+			
+		}
+}
+

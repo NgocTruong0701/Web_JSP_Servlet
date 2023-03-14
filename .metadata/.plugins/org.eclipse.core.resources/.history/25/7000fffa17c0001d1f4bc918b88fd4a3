@@ -1,0 +1,5 @@
+package com.mywebsite.web;
+
+public class HomeController {
+
+}

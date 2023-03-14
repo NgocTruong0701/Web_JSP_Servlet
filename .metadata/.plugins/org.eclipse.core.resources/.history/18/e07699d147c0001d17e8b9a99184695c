@@ -1,0 +1,11 @@
+<%@include file="/common/taglib.jsp" %>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Trang chủ</title>
+</head>
+<body>
+	<h1>Xin chào ${model.fullName}</h1>
+</body>
+</html>
